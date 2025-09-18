@@ -19,9 +19,9 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🔹 **CHEQIT** – Digital payments & service-commerce platform empowering SMEs in South Africa.  
-- 🔹 **AfriIntelligence** – AI-powered educational platform (teacher & student flows, glossary management).  
-- 🔹 **UI/UX Prototypes** – Figma dashboards & user flows for learning and commerce applications. 
+-  **CHEQIT** – Digital payments & service-commerce platform empowering SMEs in South Africa.  
+-  **AfriIntelligence** – AI-powered educational platform (teacher & student flows, glossary management).  
+-  **UI/UX Prototypes** – Figma dashboards & user flows for learning and commerce applications. 
 
 ---
 
